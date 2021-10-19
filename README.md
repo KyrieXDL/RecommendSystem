@@ -1,8 +1,8 @@
 # RecommendSystem
 
 ### RecommendSystem homework
-### Name: Donglin Xie
-### Stu_id: 2020223045208
+### Name: xxx
+### 
 
 ### 1. 第一次作业：概率矩阵分解（pmf）
 #### 数据集：ml-100k，主要使用u.data文件，数据格式：user_id, item_id, rating, timestamp
